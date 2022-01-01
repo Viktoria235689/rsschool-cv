@@ -1,6 +1,6 @@
 # Victoria Bardziuhova
 
-![Photo] ()
+![Photo](/img/photo.jpg)
 
 ---
 
@@ -15,6 +15,8 @@
 ---
 
 ## About me
+
+I'm 23 y.o., very active and kind person, have good interpersonal skills. My favorite hobby is dancing. Now I work as an accountant and willing to learn and develop new skills.
 
 ---
 
@@ -33,6 +35,8 @@
   - Faculty of Finance and Banking
 - Master, Belarusian State Economic University
   - Faculty of Finance and Banking, profiling "Tax consulting and business valuation"
+
+---
 
 ## Code example:
 
