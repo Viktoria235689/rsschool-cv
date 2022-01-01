@@ -1,7 +1,3 @@
-[rsschool-cv] (https://Viktoria235689.github.io/rsschool-cv/cv#rsschool-cv)
-
----
-
 # Victoria Bardziuhova
 
 ![Photo] ()
@@ -13,7 +9,7 @@
 - Location: Minsk, Belarus
 - Phone: +375 (44) 551-60-75
 - E-mail: 400158@tut.by
-- GitHub: [Viktoria235689] (https://github.com/Viktoria235689)
+- GitHub: [Viktoria235689](https://github.com/Viktoria235689)
 - Skype: live:.cid.d3bf7e6b40e86287
 
 ---
