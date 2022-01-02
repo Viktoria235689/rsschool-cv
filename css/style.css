@@ -1,0 +1,130 @@
+html {
+  scroll-behavior: smooth;
+  font-family: 'Frank Ruhl Libre', serif;
+  height: 100%;
+}
+
+header {
+  background-color:rgb(96, 179, 165);
+  width: 100%;
+  height: 5%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex: 0 0 auto;
+}
+
+.nav-list {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+.nav-list a {
+  text-decoration: none;
+}
+
+body {
+  box-sizing: border-box;
+  background-color: #e5f7f3;
+  margin: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  flex: 1 0 auto;
+}
+
+main .wrapper {
+  background-color: #c7e2dc;
+}
+
+.left-side {
+  width: 32%;
+}
+
+.right-side {
+  width: 68%;
+}
+
+.profile-section {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 30px;
+}
+
+figure {
+  display: inline-block;
+  overflow: hidden;
+  width: 80%;
+  padding-bottom: 85%;
+  height: 0;
+  position: relative;
+  margin: 0;
+}
+
+img {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+h1 {
+  text-align: center;
+}
+
+.wrapper{
+  display: flex;
+  justify-content: space-between;
+  margin: 0;
+  
+  width: 80%;
+}
+
+h2 {
+  background-color: #035e4a;
+  color: rgb(238, 247, 244);
+}
+
+a {
+  color: black;
+}
+
+pre {
+  background-color: rgb(248, 245, 236);
+  border: solid 1px;
+
+}
+
+footer{
+  background-color: rgb(96, 179, 165);
+  color:white;
+  height: 5%;
+  display: flex;
+  justify-content: center;
+  flex: 0 0 auto;
+}
+
+.rs-logo {
+  height: 80%;
+  width: 100px;
+  background-image: url('https://rs.school/images/rs_school_js.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+footer .wrapper {
+  align-items: center;
+}
