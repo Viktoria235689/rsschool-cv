@@ -1,6 +1,6 @@
 # Victoria Bardziuhova
 
-![Photo](/img/photo.jpg)
+![Photo](/assets/img/photo.jpg)
 
 ---
 
